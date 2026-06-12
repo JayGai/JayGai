@@ -1,5 +1,5 @@
 # 💫 Hi👋, I'm Jay Gai
-💻 Aspiring Software Engineer<br>🐍 Learning Python & DSA<br>🧩 Solving problems daily<br>📊 Interested in Trading & Analytics<br>🚀 Building real-world projects<br>🎯 Focused on consistency & growth
+💻 Aspiring Software Engineer<br>🐍 Learning Java & DSA<br>🧩 Solving problems daily<br>📊 Interested in Trading & Analytics<br>🚀 Building real-world projects<br>🎯 Focused on consistency & growth
 
 
 # 💻 Tech Stack:
